@@ -40,10 +40,12 @@ The size of the model pre- and post-conversion was...
 
 The inference time of the model pre- and post-conversion was...
 1. Model: ssd_mobilenet_v2_coco_2018_03_29
-
+   avg_infer time: 69-70 ms
+          
 2. Model: TensorFlow Resnet v2
-
+   avg_infer time: 45-47 ms
 3. Person detection retail -- Intel
+   avg_infer time: 2600 ms
 
 
 ## Assess Model Use Cases
