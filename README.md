@@ -200,3 +200,6 @@ CAMERA_FEED_SERVER: "http://localhost:3004"
 ...
 MQTT_SERVER: "ws://localhost:3002"
 ```
+
+
+####Result output file (avi) file have also been added here.
